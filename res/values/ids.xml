@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    
+    <item type="id" name="inputTv">inputTv</item>
+    <item type="id" name="heightEdit">heightEdit</item>
+    <item type="id" name="mySurfaceView">mySurfaceView</item>
+    <item type="id" name="adView">adView</item>
+    <item type="id" name="centerText">centerText</item>
+    <item type="id" name="settingbtn">settingbtn</item>
+    <item type="id" name="lockbuttombtn">lockbuttombtn</item>
+    <item type="id" name="helpbtn">helpbtn</item>
+    <item type="id" name="top">top</item>
+</resources>

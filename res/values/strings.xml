@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">手机定位</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="login">登录成功</string>
+	<string name="sendGPS">发送成功</string>
+	<string name="wrongpass">密码错误</string>
+	<string name="nouser">没有该用户</string>
+	
+    <string name="action_settings">设置身高</string>
+	<string name="input_human_height">输入身高(单位：米)</string>
+    <string name="input_phone_height">输入手机高度(单位：厘米)</string>
+    <string name="mode_desktop">桌面模式</string>
+    <string name="mode_long">远处模式</string>
+    <string name="cm">厘米</string>
+    <string name="m">米</string>
+    <string name="lockbuttom">锁定底部</string>
+    <string name="unlockbuttom">解除锁定</string>
+    <string name="distanceis">距离为</string>
+    <string name="heightis">高度为</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="help">帮助</string>
+    <string name="setting">设置</string>
+    <string name="currentMode">当前模式：</string>
+    <string name="humanHeight">请输入您的身高：</string>
+    <string name="phoneHeight">手机高度：</string>
+    <string name="top">树顶</string>
+    <string name="button">底部</string>
+    <string name="stick">杆顶</string>
+</resources>
